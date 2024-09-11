@@ -5,46 +5,46 @@
 **Instructions:** Evaluate the following expressions.  You can answer either in this README file, in your own notebook, or on a separate piece of paper.
 ### Part 1
 a. 3 * (7 - 4) + 6 / 2
-
+11
 b. ((12 / 3) * (7 - 5) + 4) / 2
-
+5
 c. (5 + 2) * (8 - 3) % 2
-
+0
 d. (15 % 4) + (5 / 2) - (3 * 2)
-
+-2
 e. 5 * 2 + 4 / 2 % 3
-
+10
 f. (18 - 12) % 3 * (5 - 3 + 2)
-
+0
 g. 6 % (8 - 6 + 2) - (3 * 3) / 3
-
+-3
 h. (12 % (5 / 2)) * 3 + (7 - 4)
-
+7
 i. (14 / 2) * 3 + 6 % 2
-
+21
 j. ((15 % 3) / 3) * (7 - 4) + 5
-
+5
 ### Part 2
 a. 5.5 * (3 + 1) - 2 / 2.0
-
+21.0
 b. 8 % 3 + (4.5 * 2) - 1 / 2.0
-
+10.5
 c. (7 / 2.0) * (4 + 3.5) - 6 % 2
-
+24.5
 d. (8 - 4) / 3 * 3.5 + 6 / 2.0
-
+7
 e. (9 - 3.5) * 2 * (7 - 5.5) + 4.0 / 8
-
+15.625
 f. 3.0 * (6 / 2) % 2 + (5 - 3.5)
-
+1.5
 g. (9 - 4) / 2.0 * (8 - 4) - 5 / 2
-
+17.5
 h. (5 / 2.0) * (7 - 4.5) + 6 % 2
-
+6.25
 i. (6.5 - 3) / 2 * (7 - 4) + 5 % 2
-
+5.25
 j. 3 * (5 / 2) % 2 + (7 - 3.0) / 2.0
-
+2
 ## Problem0
 Make a program that creates two variables: an int and a double.  Follow these instructions in the exact order below.
 1. Create a variable of type `double` and store an int value into it.
